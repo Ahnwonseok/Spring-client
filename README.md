@@ -8,3 +8,4 @@
 - 리턴값을 다시 thymeleaf를 활용하여 View Layer로 보낸다.
  
   <img src = "https://github.com/FaceRecognition0/Spring-client/assets/95980876/4c0e8873-1461-465f-a13d-5bb9b4f3058e" width="90%" height="90%">
+ 
