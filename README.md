@@ -1,4 +1,4 @@
-## 클라이언트(Spring) 로직
+## Sprin(클라이언트) 로직
 - View Layer에서 프로필 사진 한 장과 다른 사진 여러장을 첨부해 제출한다.&nbsp;
 <img src = "https://github.com/FaceRecognition0/Spring-client/assets/95980876/9b2f41f0-f65c-45cb-ad33-63bd558e0db0" width="24%" height="24%">
  
